@@ -1,0 +1,5 @@
+node_modules
+.envP
+images
+json
+package-lock.json
